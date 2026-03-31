@@ -730,5 +730,96 @@
     "image": "ajimages/Wildflower_Bush_.png",
     "year": 2024,
     "member": true
+  },
+  {
+    "name": "Broken Hearts Fortress Lamp",
+    "colors": ["black", "purple"],
+    "image": "ajimages/Broken_Hearts_Fortress_Lamp.png",
+    "year": 2026,
+    "member": true
+  },
+  {
+    "name": "Broken Hearts Fortress Tapestry",
+    "colors": ["black", "purple"],
+    "image": "ajimages/Broken_Hearts_Fortress_Tapestry.png",
+    "year": 2026,
+    "member": true
+  },
+  {
+    "name": "Broken Hearts Fortress Fountain",
+    "colors": ["black", "purple"],
+    "image": "ajimages/Broken_Hearts_Fortress_Fountain.png",
+    "year": 2026,
+    "member": true
+  },
+  {
+    "name": "",
+    "colors": ["black", "purple"],
+    "image": "ajimages/",
+    "year": 2026,
+    "member": true
+  },
+  {
+    "name": "Broken Hearts Fortress Sconce",
+    "colors": ["black", "purple", "yellow"],
+    "image": "ajimages/Broken_Hearts_Fortress_Sconce.png",
+    "year": 2026,
+    "member": true
+  },
+  {
+    "name": "Broken Hearts Fortress Archway",
+    "colors": ["black", "purple"],
+    "image": "ajimages/Broken_Hearts_Fortress_Archway.png",
+    "year": 2026,
+    "member": true
+  },
+  {
+    "name": "Broken Hearts Fortress Window",
+    "colors": ["black", "purple"],
+    "image": "ajimages/Broken_Hearts_Fortress_Window.png",
+    "year": 2026,
+    "member": true
+  },
+  {
+    "name": "Broken Hearts Fortress Sofa",
+    "colors": ["black", "purple"],
+    "image": "ajimages/Broken_Hearts_Fortress_Sofa.png",
+    "year": 2026,
+    "member": true
+  },
+  {
+    "name": "Broken Hearts Fortress Table",
+    "colors": ["black", "purple"],
+    "image": "ajimages/Broken_Hearts_Fortress_Table.png",
+    "year": 2026,
+    "member": true
+  },
+  {
+    "name": "Broken Hearts Fortress Chair",
+    "colors": ["black", "purple"],
+    "image": "ajimages/Broken_Hearts_Fortress_Chair.png",
+    "year": 2026,
+    "member": true
+  },
+  {
+    "name": "Broken Hearts Fortress Throne",
+    "colors": ["black", "purple"],
+    "image": "ajimages/Broken_Hearts_Fortress_Throne.png",
+    "year": 2026,
+    "member": true
+  },
+  {
+    "name": "Broken Hearts Fortress Rug",
+    "colors": ["black", "purple"],
+    "image": "ajimages/Broken_Hearts_Fortress_Rug.png",
+    "year": 2026,
+    "member": true
+  },
+  {
+    "name": "Purple Heart-Shaped Grate",
+    "colors": ["black", "purple"],
+    "image": "ajimages/Purple_Heart-Shaped_Grate.png",
+    "year": 2026,
+    "member": true
   }
 ]
