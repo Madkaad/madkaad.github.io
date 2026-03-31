@@ -617,9 +617,7 @@
   },
   {
     "name": "Slate Floor",
-    "colors": [
-      "gray"
-    ],
+    "colors": ["gray"],
     "season": "",
     "category": "other",
     "image": "ajimages/slate_floor.png",
@@ -659,5 +657,76 @@
     "image": "ajimages/blue_sky.png",
     "year": 2010,
     "member": false
+  },
+  {
+    "name": "Pink Striped Walls",
+    "colors": [
+      "pink"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/pink_striped_walls.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Dust Striped Walls",
+    "colors": [
+      "red",
+      "brown"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/dust_striped_walls.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Lava Floor",
+    "colors": [
+      "orange",
+      "brown"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/Lava_floor.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Starry Walls",
+    "colors": ["blue"],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/starry_walls.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Map",
+    "colors": ["brown"],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/Map_brown.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Window",
+    "colors": ["brown"],
+    "season": "",
+    "category": "nature",
+    "image": "ajimages/Window_brown.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Blue Rug",
+    "colors": ["blue"],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/Blue_rug_blue.png",
+    "year": 2010,
+    "member": true
   }
 ]
