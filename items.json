@@ -537,5 +537,27 @@
     "image": "ajimages/TheShopKing_plushie.png",
     "year": 2024,
     "member": false
+  },
+   {
+    "name": "Sturdy Table",
+    "colors": [
+      "brown"
+    ],
+    "season": "",
+    "category": "nature",
+    "image": "ajimages/sturdy_table.png",
+    "year": 2010,
+    "member": false
+  },
+  {
+    "name": "Tiki Torch",
+    "colors": [
+      "brown"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/Tiki_torch.png",
+    "year": 2010,
+    "member": false
   }
 ]
