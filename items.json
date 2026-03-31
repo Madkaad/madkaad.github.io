@@ -142,5 +142,226 @@
     "image": "ajimages/generic-plant.png",
     "year": 2011,
     "member": false
+  },
+    {
+    "name": "Qw072 Wall Sticker",
+    "colors": [
+      "brown"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Qw072_wall_sticker.png"
+  },
+  {
+    "name": "Ghostie Wall Sticker",
+    "colors": [
+      "brown"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Ghostie_wall_sticker.png"
+  },
+  {
+    "name": "Galaxymintz Wall Sticker",
+    "colors": [
+      "red"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Galaxymintz_wall_sticker.png"
+  },
+  {
+    "name": "Wisteriamoon Wall Sticker",
+    "colors": [
+      "brown",
+      "pink"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Wisteriamoon_wall_sticker.png"
+  },
+  {
+    "name": "Funfox Wall Sticker",
+    "colors": [
+      "red"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Funfox_wall_sticker.png"
+  },
+  {
+    "name": "Catiecat21 Wall Sticker",
+    "colors": [
+      "green",
+      "yellow"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Catiecat21_wall_sticker.png"
+  },
+  {
+    "name": "Ava1234ava Wall Sticker",
+    "colors": [
+      "pink",
+      "black"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Ava1234ava_wall_sticker.png"
+  },
+  {
+    "name": "Delocate Wall Sticker",
+    "colors": [
+      "purple"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Delocate_wall_sticker.png"
+  },
+  {
+    "name": "Cherrioz Wall Sticker",
+    "colors": [
+      "yellow",
+      "black"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Cherrioz_wall_sticker.png"
+  },
+  {
+    "name": "Kittenlove133 Wall Sticker",
+    "colors": [
+      "purple",
+      "blue"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Kittenlove133_wall_sticker.png"
+  },
+  {
+    "name": "Animalloverjammer Wall Sticker",
+    "colors": [
+      "pink"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Animalloverjammer_wall_sticker.png"
+  },
+  {
+    "name": "AJHQ Wall Sticker",
+    "colors": [
+      "pink",
+      "white"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "AJHQ_wall_sticker.png"
+  },
+  {
+    "name": "L30ra Wall Sticker",
+    "colors": [
+      "yellow",
+      "purple",
+      "orange"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "L30ra_wall_sticker.png"
+  },
+  {
+    "name": "Fullmoonbunny Wall Sticker",
+    "colors": [
+      "pink",
+      "white"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Fullmoonbunny_wall_sticker.png"
+  },
+  {
+    "name": "Azure21 Wall Sticker",
+    "colors": [
+      "white",
+      "red"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Azure21_wall_sticker.png"
+  },
+  {
+    "name": "Theshadyraccoon Wall Sticker",
+    "colors": [
+      "purple"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Theshadyraccoon_wall_sticker.png"
+  },
+  {
+    "name": "Kutekoolkitten Wall Sticker",
+    "colors": [
+      "yellow",
+      "blue"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Kutekoolkitten_wall_sticker.png"
+  },
+  {
+    "name": "Bradstormer Wall Sticker",
+    "colors": [
+      "yellow"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Bradstormer_wall_sticker.png"
+  },
+  {
+    "name": "Iisah Wall Sticker",
+    "colors": [
+      "purple",
+      "green"
+    ],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Iisah_wall_sticker.png"
   }
 ]
