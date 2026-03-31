@@ -89,60 +89,6 @@
     "year": 2015,
     "member": true
   },
-  {
-    "name": "Lucky Clover Plant",
-    "colors": ["green"],
-    "season": "Lucky Clovers",
-    "category": "nature",
-    "image": "ajimages/lucky-clover.png",
-    "year": 2015,
-    "member": false
-  },
-  {
-    "name": "Phantom Mask",
-    "colors": ["black", "purple"],
-    "season": "Night of the Phantoms",
-    "category": "other",
-    "image": "ajimages/phantom-mask.png",
-    "year": 2013,
-    "member": true
-  },
-  {
-    "name": "Easter Egg Basket",
-    "colors": ["pink", "yellow", "blue"],
-    "season": "Easter",
-    "category": "other",
-    "image": "ajimages/easter-basket.png",
-    "year": 2016,
-    "member": false
-  },
-  {
-    "name": "Generic Plant",
-    "colors": ["green"],
-    "season": "",
-    "category": "nature",
-    "image": "ajimages/generic-plant.png",
-    "year": 2011,
-    "member": false
-  },
-  {
-    "name": "New Year Fireworks",
-    "colors": ["red", "yellow", "blue"],
-    "season": "New Year",
-    "category": "other",
-    "image": "ajimages/new-year-fireworks.png",
-    "year": 2021,
-    "member": true
-  },
-  {
-    "name": "Generic Plant",
-    "colors": ["green"],
-    "season": "",
-    "category": "nature",
-    "image": "ajimages/generic-plant.png",
-    "year": 2011,
-    "member": false
-  },
     {
     "name": "Qw072 Wall Sticker",
     "colors": [
