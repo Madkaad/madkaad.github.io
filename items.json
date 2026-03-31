@@ -502,7 +502,7 @@
       "purple",
       "brown"
     ],
-    "image": "ajimages/Heart_Tree_Door_purple",
+    "image": "ajimages/Heart_Tree_Door_purple.png",
     "year": 2024,
     "member": true
   },
@@ -529,7 +529,7 @@
     "colors": [
       "purple"
     ],
-    "image": "ajimages/Heart_Shaped_Stone_purple",
+    "image": "ajimages/Heart_Shaped_Stone_purple.png",
     "year": 2024,
     "member": true
   },
@@ -538,7 +538,7 @@
     "colors": [
       "brown"
     ],
-    "image": "ajimages/Stuffed_Mailbag_Brown_red",
+    "image": "ajimages/Stuffed_Mailbag_Brown_red.png",
     "year": 2024,
     "member": true
   },
@@ -547,7 +547,7 @@
     "colors": [
       "brown"
     ],
-    "image": "ajimages/Stuffed_Mailbag",
+    "image": "ajimages/Stuffed_Mailbag.png",
     "year": 2024,
     "member": true
   },
@@ -556,7 +556,7 @@
     "colors": [
       "brown"
     ],
-    "image": "ajimages/Stuffed_Mailbag_brown",
+    "image": "ajimages/Stuffed_Mailbag_brown.png",
     "year": 2024,
     "member": true
   },
