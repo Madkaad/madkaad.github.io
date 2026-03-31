@@ -10,10 +10,11 @@
     .item-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 15px; }
     .item { border: 1px solid #ccc; padding: 5px; text-align: center; cursor: pointer; }
     .item img { max-width: 100px; max-height: 100px; display: block; margin: 0 auto 5px; }
-    .lightbox { display: none; position: fixed; top:0; left:0; width:100%; height:100%; background: rgba(0,0,0,0.8); justify-content:center; align-items:center; }
-    .lightbox img { max-width: 90%; max-height: 90%; }
+    .lightbox { display: none; position: fixed; top:0; left:0; width:100%; height:100%; background: rgba(0,0,0,0.8); justify-content:center; align-items:center; flex-direction: column; }
+    .lightbox img { max-width: 90%; max-height: 90%; margin-bottom: 10px; }
     .lightbox button { position:absolute; top:20px; right:20px; padding:10px; }
     .color-options label { display: inline-block; margin-right:5px; }
+    #downloadLink { color: #fff; background: #333; padding: 5px 10px; text-decoration: none; border-radius: 5px; }
   </style>
 </head>
 <body>
@@ -122,11 +123,9 @@ function render(itemsToRender){
   });
 }
 
-function applyFilters()function applyFilters(){
+function applyFilters(){
   const search = document.getElementById("searchInput").value.toLowerCase().trim();
-  const selectedColors = Array.from(document.querySelectorAll(".colorCheck:checked"))
-    .map(c=>c.value.toLowerCase().trim());
-
+  const selectedColors = Array.from(document.querySelectorAll(".colorCheck:checked")).map(c=>c.value.toLowerCase().trim());
   const selectedSeason = document.getElementById("seasonFilter").value.toLowerCase().trim();
   const selectedCategory = document.getElementById("categoryFilter").value.toLowerCase().trim();
   const selectedYear = document.getElementById("yearFilter").value;
@@ -135,14 +134,13 @@ function applyFilters()function applyFilters(){
   const showNonMember = document.getElementById("nonMemberCheck").checked;
 
   let filtered = items.filter(item=>{
-
-    const name = (item.name || "").toLowerCase();
-    const category = (item.category || "").toLowerCase().trim();
-    const season = (item.season || "").toLowerCase().trim();
-    const colors = (item.colors || []).map(c=>c.toLowerCase().trim());
+    const name = (item.name||"").toLowerCase();
+    const colors = (item.colors||[]).map(c=>c.toLowerCase());
+    const season = (item.season||"").toLowerCase();
+    const category = (item.category||"").toLowerCase();
     const year = parseInt(item.year);
 
-    // Member
+    // Membership filter
     if(!showMember && !showNonMember) return true;
     if(item.member && !showMember) return false;
     if(!item.member && !showNonMember) return false;
@@ -150,50 +148,20 @@ function applyFilters()function applyFilters(){
     // Search
     if(!name.includes(search)) return false;
 
-    // Color
-    if(selectedColors.length > 0){
-      if(!selectedColors.some(c => colors.includes(c))) return false;
-    }
+    // Color filter
+    if(selectedColors.length>0 && !selectedColors.some(c=>colors.includes(c))) return false;
 
-    // Season
-    if(selectedSeason !== "all"){
-      if(selectedSeason === "none" && season !== "") return false;
-      if(selectedSeason !== "none" && season !== selectedSeason) return false;
-    }
-
-    // Category
-    if(selectedCategory !== "all"){
-      if(category !== selectedCategory) return false;
-    }
-
-    // Year
-    if(selectedYear !== "all"){
-      if(year !== parseInt(selectedYear)) return false;
-    }
-
-    return true;
-  });
-
-  // Sorting
-  if(sortType==="a-z") filtered.sort((a,b)=>a.name.localeCompare(b.name));
-  else if(sortType==="z-a") filtered.sort((a,b)=>b.name.localeCompare(a.name));
-  else if(sortType==="old-new") filtered.sort((a,b)=>a.year-b.year);
-  else if(sortType==="new-old") filtered.sort((a,b)=>b.year-a.year);
-
-  render(filtered);
-}
-
-    // Season
+    // Season filter
     if(selectedSeason!=="all"){
-      if(selectedSeason==="none" && item.season!=="") return false;
-      else if(selectedSeason!=="none" && item.season!==selectedSeason) return false;
+      if(selectedSeason==="none" && season!=="") return false;
+      if(selectedSeason!=="none" && season!==selectedSeason) return false;
     }
 
-    // Category
-    if(selectedCategory!=="all" && item.category!==selectedCategory) return false;
+    // Category filter
+    if(selectedCategory!=="all" && category!==selectedCategory) return false;
 
-    // Year
-    if(selectedYear!=="all" && item.year!=parseInt(selectedYear)) return false;
+    // Year filter
+    if(selectedYear!=="all" && year!==parseInt(selectedYear)) return false;
 
     return true;
   });
@@ -232,7 +200,7 @@ document.getElementById("yearFilter").addEventListener("change", applyFilters);
 document.getElementById("sortFilter").addEventListener("change", applyFilters);
 document.getElementById("memberCheck").addEventListener("change", applyFilters);
 document.getElementById("nonMemberCheck").addEventListener("change", applyFilters);
-</script>
 
+</script>
 </body>
 </html>
