@@ -559,5 +559,151 @@
     "image": "ajimages/Tiki_torch.png",
     "year": 2010,
     "member": false
+  },
+  {
+    "name": "Pink Argyle Walls",
+    "colors": [
+      "pink"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/Pink_argyle_walls_pink.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Green Slime Walls",
+    "colors": [
+      "green"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/Green_slime_walls.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Grass Carpet",
+    "colors": [
+      "green"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/grass_carpet.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Blue Star Walls",
+    "colors": [
+      "blue"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/blue_star_walls.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Brown Tile",
+    "colors": [
+      "brown"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/brown_tile.png",
+    "year": 2011,
+    "member": true
+  },
+  {
+    "name": "Slate Floor",
+    "colors": [
+      "gray"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/slate_floor.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Rainbow Pink Walls",
+    "colors": [
+      "pink"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/Rainbow Pink Walls.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Yellow Diner Tiles",
+    "colors": [
+      "yellow",
+      "brown"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/yellow_diner_tiles.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Blue Sky",
+    "colors": [
+      "blue"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/blue_sky.png",
+    "year": 2010,
+    "member": false
+  },
+  {
+    "name": "Pink Striped Walls",
+    "colors": [
+      "pink"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/pink_striped_walls.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Dust Striped Walls",
+    "colors": [
+      "red",
+      "brown"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/dust_striped_walls.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Lava Floor",
+    "colors": [
+      "orange",
+      "brown"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/Lava_floor.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Starry Walls",
+    "colors": [
+      "blue"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/starry_walls.png",
+    "year": 2010,
+    "member": true
   }
 ]
