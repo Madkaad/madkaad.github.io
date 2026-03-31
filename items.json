@@ -570,5 +570,165 @@
     "image": "ajimages/Friendship_Crates.png",
     "year": 2024,
     "member": true
+  },
+  {
+    "name": "Garden Standing Stones",
+    "colors": [
+      "gray"
+    ],
+    "image": "ajimages/Garden_Standing_Stones1.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Garden Standing Stones",
+    "colors": [
+      "gray",
+      "green"
+    ],
+    "image": "ajimages/Garden_Standing_Stones2.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Garden Standing Stones",
+    "colors": [
+      "gray",
+      "green"
+    ],
+    "image": "ajimages/Garden_Standing_Stones.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Flowering Garden Bush",
+    "colors": [
+      "green",
+      "pink"
+    ],
+    "image": "ajimages/Flowering_Garden_Bush_.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Forest Tree",
+    "colors": [
+      "green"
+    ],
+    "image": "ajimages/Forest_Tree.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Forest Tree",
+    "colors": [
+      "green"
+    ],
+    "image": "ajimages/Forest_Tree1.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Forest Tree",
+    "colors": [
+      "green"
+    ],
+    "image": "ajimages/Forest_Tree2.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Forest Tree",
+    "colors": [
+      "green"
+    ],
+    "image": "ajimages/Forest_Tree3.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Forest Tree",
+    "colors": [
+      "green"
+    ],
+    "image": "ajimages/Forest_Tree4.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Garden Archway",
+    "colors": [
+      "gray",
+      "pink"
+    ],
+    "image": "ajimages/Garden_Archway_.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Garden Bench",
+    "colors": [
+      "gray",
+      "pink"
+    ],
+    "image": "ajimages/Garden_Bench_.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Garden Bush",
+    "colors": [
+      "green"
+    ],
+    "image": "ajimages/Garden_Bush.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Garden Bush",
+    "colors": [
+      "green"
+    ],
+    "image": "ajimages/Garden_Bush1.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Garden Trellis",
+    "colors": [
+      "pink"
+    ],
+    "image": "ajimages/Garden_Trellis_.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Rectangular Garden Hedge",
+    "colors": [
+      "green"
+    ],
+    "image": "ajimages/Rectangular_Garden_Hedge_.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Tree Stump",
+    "colors": [
+      "yellow",
+      "green"
+    ],
+    "image": "ajimages/Tree_Stump_.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Wildflower Bush",
+    "colors": [
+      "green",
+      "pink"
+    ],
+    "image": "ajimages/Wildflower_Bush_.png",
+    "year": 2024,
+    "member": true
   }
 ]
