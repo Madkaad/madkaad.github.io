@@ -2,7 +2,7 @@
   {
     "name": "Broccoli Tree",
     "colors": ["green"],
-    "season": ""
+    "season": "",
     "category": "nature",
     "image": "ajimages/broccolitree_green.png",
     "year": 2019,
