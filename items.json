@@ -495,5 +495,79 @@
     "image": "ajimages/Blue_rug_blue.png",
     "year": 2010,
     "member": true
+  },
+    {
+    "name": "Heart Tree Door",
+    "colors": [
+      "purple",
+      "brown"
+    ],
+    "image": "ajimages/Heart_Tree_Door_purple",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Postal Drop Box",
+    "colors": [
+      "blue"
+    ],
+    "image": "ajimages/Postal_drop_box_blue.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Post Office",
+    "colors": [
+      "brown"
+    ],
+    "image": "ajimages/Post Office_brown.png",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Heart Shaped Stone",
+    "colors": [
+      "purple"
+    ],
+    "image": "ajimages/Heart_Shaped_Stone_purple",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Stuffed Mailbag",
+    "colors": [
+      "brown"
+    ],
+    "image": "ajimages/Stuffed_Mailbag_Brown_red",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Stuffed Mailbag",
+    "colors": [
+      "brown"
+    ],
+    "image": "ajimages/Stuffed_Mailbag",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Stuffed Mailbag",
+    "colors": [
+      "brown"
+    ],
+    "image": "ajimages/Stuffed_Mailbag_brown",
+    "year": 2024,
+    "member": true
+  },
+  {
+    "name": "Friendship Crates",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "image": "ajimages/Friendship_Crates.png",
+    "year": 2024,
+    "member": true
   }
 ]
