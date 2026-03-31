@@ -480,5 +480,62 @@
     "year": 2024,
     "member": false,
     "image": "ajimages/Iisah_plushie.png"
+  },
+   {
+    "name": "Bepper Plushie",
+    "colors": [
+      "white",
+      "red"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/Bepper_plushie.png",
+    "year": 2024,
+    "member": false
+  },
+  {
+    "name": "Chocolates4froggy Plushie",
+    "colors": [
+      "pink"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/Chocolates4froggy_plushie.png",
+    "year": 2024,
+    "member": false
+  },
+  {
+    "name": "CupcakeCeline Plushie",
+    "colors": [
+      "black"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/CupcakeCeline_plushie.png",
+    "year": 2024,
+    "member": false
+  },
+  {
+    "name": "Pugfluff Plushie",
+    "colors": [
+      "yellow",
+      "brown"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/Pugfluff_plushie.png",
+    "year": 2024,
+    "member": false
+  },
+  {
+    "name": "TheShopKing Plushie",
+    "colors": [
+      "white"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/TheShopKing_plushie.png",
+    "year": 2024,
+    "member": false
   }
 ]
