@@ -152,7 +152,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Qw072_wall_sticker.png"
+    "image": "ajimages/Qw072_wall_sticker.png"
   },
   {
     "name": "Ghostie Wall Sticker",
@@ -163,7 +163,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Ghostie_wall_sticker.png"
+    "image": "ajimages/Ghostie_wall_sticker.png"
   },
   {
     "name": "Galaxymintz Wall Sticker",
@@ -174,7 +174,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Galaxymintz_wall_sticker.png"
+    "image": "ajimages/Galaxymintz_wall_sticker.png"
   },
   {
     "name": "Wisteriamoon Wall Sticker",
@@ -186,7 +186,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Wisteriamoon_wall_sticker.png"
+    "image": "ajimages/Wisteriamoon_wall_sticker.png"
   },
   {
     "name": "Funfox Wall Sticker",
@@ -197,7 +197,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Funfox_wall_sticker.png"
+    "image": "ajimages/Funfox_wall_sticker.png"
   },
   {
     "name": "Catiecat21 Wall Sticker",
@@ -209,7 +209,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Catiecat21_wall_sticker.png"
+    "image": "ajimages/Catiecat21_wall_sticker.png"
   },
   {
     "name": "Ava1234ava Wall Sticker",
@@ -221,7 +221,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Ava1234ava_wall_sticker.png"
+    "image": "ajimages/Ava1234ava_wall_sticker.png"
   },
   {
     "name": "Delocate Wall Sticker",
@@ -232,7 +232,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Delocate_wall_sticker.png"
+    "image": "ajimages/Delocate_wall_sticker.png"
   },
   {
     "name": "Cherrioz Wall Sticker",
@@ -244,7 +244,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Cherrioz_wall_sticker.png"
+    "image": "ajimages/Cherrioz_wall_sticker.png"
   },
   {
     "name": "Kittenlove133 Wall Sticker",
@@ -256,7 +256,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Kittenlove133_wall_sticker.png"
+    "image": "ajimages/Kittenlove133_wall_sticker.png"
   },
   {
     "name": "Animalloverjammer Wall Sticker",
@@ -267,7 +267,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Animalloverjammer_wall_sticker.png"
+    "image": "ajimages/Animalloverjammer_wall_sticker.png"
   },
   {
     "name": "AJHQ Wall Sticker",
@@ -279,7 +279,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "AJHQ_wall_sticker.png"
+    "image": "ajimages/AJHQ_wall_sticker.png"
   },
   {
     "name": "L30ra Wall Sticker",
@@ -292,7 +292,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "L30ra_wall_sticker.png"
+    "image": "ajimages/L30ra_wall_sticker.png"
   },
   {
     "name": "Fullmoonbunny Wall Sticker",
@@ -304,7 +304,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Fullmoonbunny_wall_sticker.png"
+    "image": "ajimages/Fullmoonbunny_wall_sticker.png"
   },
   {
     "name": "Azure21 Wall Sticker",
@@ -316,7 +316,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Azure21_wall_sticker.png"
+    "image": "ajimages/Azure21_wall_sticker.png"
   },
   {
     "name": "Theshadyraccoon Wall Sticker",
@@ -327,7 +327,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Theshadyraccoon_wall_sticker.png"
+    "image": "ajimages/Theshadyraccoon_wall_sticker.png"
   },
   {
     "name": "Kutekoolkitten Wall Sticker",
@@ -339,7 +339,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Kutekoolkitten_wall_sticker.png"
+    "image": "ajimages/Kutekoolkitten_wall_sticker.png"
   },
   {
     "name": "Bradstormer Wall Sticker",
@@ -350,7 +350,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Bradstormer_wall_sticker.png"
+    "image": "ajimages/Bradstormer_wall_sticker.png"
   },
   {
     "name": "Iisah Wall Sticker",
@@ -362,6 +362,6 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Iisah_wall_sticker.png"
+    "image": "ajimages/Iisah_wall_sticker.png"
   }
 ]
