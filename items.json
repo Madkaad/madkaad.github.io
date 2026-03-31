@@ -705,5 +705,38 @@
     "image": "ajimages/starry_walls.png",
     "year": 2010,
     "member": true
+  },
+   {
+    "name": "Map",
+    "colors": [
+      "brown"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/Map_brown.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Window",
+    "colors": [
+      "brown"
+    ],
+    "season": "",
+    "category": "nature",
+    "image": "ajimages/Window_brown.png",
+    "year": 2010,
+    "member": true
+  },
+  {
+    "name": "Blue Rug",
+    "colors": [
+      "blue"
+    ],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/Blue_rug_blue.png",
+    "year": 2010,
+    "member": true
   }
 ]
