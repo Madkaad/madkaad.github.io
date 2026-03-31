@@ -317,7 +317,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Qw072_plushie.png"
+    "image": "ajimages/Qw072_plushie.png"
   },
   {
     "name": "Ghostie Plushie",
@@ -326,7 +326,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Ghostie_plushie.png"
+    "image": "ajimages/Ghostie_plushie.png"
   },
   {
     "name": "Galaxymintz Plushie",
@@ -335,7 +335,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Galaxymintz_plushie.png"
+    "image": "ajimages/Galaxymintz_plushie.png"
   },
   {
     "name": "Wisteriamoon Plushie",
@@ -344,7 +344,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Wisteriamoon_plushie.png"
+    "image": "ajimages/Wisteriamoon_plushie.png"
   },
   {
     "name": "Funfox Plushie",
@@ -353,7 +353,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Funfox_plushie.png"
+    "image": "ajimages/Funfox_plushie.png"
   },
   {
     "name": "Catiecat21 Plushie",
@@ -362,7 +362,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Catiecat21_plushie.png"
+    "image": "ajimages/Catiecat21_plushie.png"
   },
   {
     "name": "Ava1234ava Plushie",
@@ -371,7 +371,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Ava1234ava_plushie.png"
+    "image": "ajimages/Ava1234ava_plushie.png"
   },
   {
     "name": "Delocate Plushie",
@@ -380,7 +380,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Delocate_plushie.png"
+    "image": "ajimages/Delocate_plushie.png"
   },
   {
     "name": "Cherrioz Plushie",
@@ -389,7 +389,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Cherrioz_plushie.png"
+    "image": "ajimages/Cherrioz_plushie.png"
   },
   {
     "name": "Kittenlove133 Plushie",
@@ -398,7 +398,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Kittenlove133_plushie.png"
+    "image": "ajimages/Kittenlove133_plushie.png"
   },
   {
     "name": "Animalloverjammer Plushie",
@@ -407,7 +407,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Animalloverjammer_plushie.png"
+    "image": "ajimages/Animalloverjammer_plushie.png"
   },
   {
     "name": "AJHQ Plushie",
@@ -416,7 +416,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "AJHQ_plushie.png"
+    "image": "ajimages/AJHQ_plushie.png"
   },
   {
     "name": "L30ra Plushie",
@@ -425,7 +425,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "L30ra_plushie.png"
+    "image": "ajimages/L30ra_plushie.png"
   },
   {
     "name": "Fullmoonbunny Plushie",
@@ -434,7 +434,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Fullmoonbunny_plushie.png"
+    "image": "ajimages/Fullmoonbunny_plushie.png"
   },
   {
     "name": "Azure21 Plushie",
@@ -443,7 +443,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Azure21_plushie.png"
+    "image": "ajimages/Azure21_plushie.png"
   },
   {
     "name": "Theshadyraccoon Plushie",
@@ -452,7 +452,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Theshadyraccoon_plushie.png"
+    "image": "ajimages/Theshadyraccoon_plushie.png"
   },
   {
     "name": "Kutekoolkitten Plushie",
@@ -461,7 +461,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Kutekoolkitten_plushie.png"
+    "image": "ajimages/Kutekoolkitten_plushie.png"
   },
   {
     "name": "Bradstormer Plushie",
@@ -470,7 +470,7 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Bradstormer_plushie.png"
+    "image": "ajimages/Bradstormer_plushie.png"
   },
   {
     "name": "Iisah Plushie",
@@ -479,6 +479,6 @@
     "category": "other",
     "year": 2024,
     "member": false,
-    "image": "Iisah_plushie.png"
+    "image": "ajimages/Iisah_plushie.png"
   }
 ]
