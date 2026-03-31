@@ -9,13 +9,85 @@
     "member": false
   },
   {
-    "name": "Freedom Flag",
-    "colors": ["red", "blue"],
-    "season": "Freedom",
+    "name": "Movie Reels",
+    "colors": ["red"],
+    "season": "",
     "category": "other",
-    "image": "ajimages/freedom-flag.png",
-    "year": 2020,
-    "member": false
+    "image": "ajimages/stack_of_movie_reels_red.png",
+    "year": 2015,
+    "member": true
+  },
+  {
+    "name": "Movie Reels",
+    "colors": ["brown"],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/stack_of_movie_reels_brown.png",
+    "year": 2015,
+    "member": true
+  },,
+  {
+    "name": "Movie Reels",
+    "colors": ["green"],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/stack_of_movie_reels_green.png",
+    "year": 2015,
+    "member": true
+  },
+  {
+    "name": "Movie Reels",
+    "colors": ["gray"],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/stack_of_movie_reels_grey.png",
+    "year": 2015,
+    "member": true
+  },
+  {
+    "name": "Movie Reels",
+    "colors": ["blue"],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/stack_of_movie_reels_blue.png",
+    "year": 2015,
+    "member": true
+  },
+  {
+    "name": "Movie Reels",
+    "colors": ["orange"],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/stack_of_movie_reels_orange.png",
+    "year": 2015,
+    "member": true
+  },
+  {
+    "name": "Movie Reels",
+    "colors": ["pink"],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/stack_of_movie_reels_pink.png",
+    "year": 2015,
+    "member": true
+  },
+  {
+    "name": "Movie Reels",
+    "colors": ["yellow"],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/stack_of_movie_reels_yellow.png",
+    "year": 2015,
+    "member": true
+  },
+  {
+    "name": "Movie Reels",
+    "colors": ["purple"],
+    "season": "",
+    "category": "other",
+    "image": "ajimages/stack_of_movie_reels_purple.png",
+    "year": 2015,
+    "member": true
   },
   {
     "name": "Lucky Clover Plant",
@@ -61,5 +133,13 @@
     "image": "ajimages/new-year-fireworks.png",
     "year": 2021,
     "member": true
-  }
+  },
+  {
+    "name": "Generic Plant",
+    "colors": ["green"],
+    "season": "",
+    "category": "nature",
+    "image": "ajimages/generic-plant.png",
+    "year": 2011,
+    "member": false
 ]
