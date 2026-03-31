@@ -42,27 +42,6 @@
   </div>
 
   <div>
-    <label>Season:</label>
-    <select id="seasonFilter">
-      <option value="all">All</option>
-      <option>Jamaaliday</option><option>Night of the Phantoms</option>
-      <option>Lucky Clovers</option><option>Friendship Festival</option>
-      <option>Feast of Thanks</option><option>Easter</option>
-      <option>New Year</option><option>Freedom</option>
-      <option value="none">No Season</option>
-    </select>
-  </div>
-
-  <div>
-    <label>Category:</label>
-    <select id="categoryFilter">
-      <option value="all">All</option>
-      <option>nature</option>
-      <option>other</option>
-    </select>
-  </div>
-
-  <div>
     <label>Year:</label>
     <select id="yearFilter">
       <option value="all">All</option>
@@ -124,53 +103,39 @@ function render(itemsToRender){
 
 function applyFilters() {
   const search = document.getElementById("searchInput").value.toLowerCase().trim();
-  const selectedColors = Array.from(document.querySelectorAll(".colorCheck:checked")).map(c => c.value.toLowerCase().trim());
-  const selectedSeason = document.getElementById("seasonFilter").value.toLowerCase().trim();
-  const selectedCategory = document.getElementById("categoryFilter").value.toLowerCase().trim();
+  const selectedColors = Array.from(document.querySelectorAll(".colorCheck:checked")).map(c => c.value.toLowerCase());
   const selectedYear = document.getElementById("yearFilter").value;
   const sortType = document.getElementById("sortFilter").value;
   const showMember = document.getElementById("memberCheck").checked;
   const showNonMember = document.getElementById("nonMemberCheck").checked;
 
   let filtered = items.filter(item => {
-    const name = (item.name || "").toLowerCase();
-    // Normalize colors, treat "grey" as "gray"
-    const colors = (item.colors || []).map(c => c.toLowerCase() === "grey" ? "gray" : c.toLowerCase());
-    const season = (item.season || "").toLowerCase();
-    const category = (item.category || "").toLowerCase();
-    const year = parseInt(item.year);
+    const itemName = item.name.toLowerCase();
+    const itemColors = item.colors.map(c => c.toLowerCase());
+    const itemYear = item.year;
 
-    // Membership filter
-    if (!showMember && !showNonMember) return false;
-    if (item.member && !showMember) return false;
-    if (!item.member && !showNonMember) return false;
+    // Member filter
+    if(!showMember && !showNonMember) return false;
+    if(item.member && !showMember) return false;
+    if(!item.member && !showNonMember) return false;
 
-    // Search filter
-    if (!name.includes(search)) return false;
+    // Search
+    if(!itemName.includes(search)) return false;
 
-    // Color filter
-    if (selectedColors.length > 0 && !selectedColors.some(c => colors.includes(c))) return false;
+    // Color
+    if(selectedColors.length > 0 && !selectedColors.some(c => itemColors.includes(c))) return false;
 
-    // Season filter
-    if (selectedSeason !== "all") {
-      if (selectedSeason === "none" && season !== "") return false;
-      if (selectedSeason !== "none" && season !== selectedSeason) return false;
-    }
-
-    // Category filter
-    if (selectedCategory !== "all" && category !== selectedCategory) return false;
-
-    // Year filter
-    if (selectedYear !== "all" && year !== parseInt(selectedYear)) return false;
+    // Year
+    if(selectedYear !== "all" && itemYear !== parseInt(selectedYear)) return false;
 
     return true;
   });
 
   // Sorting
-  if (sortType === "a-z") filtered.sort((a, b) => a.name.localeCompare(b.name));
-  else if (sortType === "z-a") filtered.sort((a, b) => b.name.localeCompare(a.name));
-  else if (sortType === "old-new") filtered.sort((a, b) => a.year - b.year);
-  else if (sortType === "new-old") filtered.sort((a, b) => b.year - a.year);
+  if(sortType === "a-z") filtered.sort((a,b) => a.name.localeCompare(b.name));
+  else if(sortType === "z-a") filtered.sort((a,b) => b.name.localeCompare(a.name));
+  else if(sortType === "old-new") filtered.sort((a,b) => a.year - b.year);
+  else if(sortType === "new-old") filtered.sort((a,b) => b.year - a.year);
 
   render(filtered);
 }
@@ -194,8 +159,6 @@ function closeLightbox(){
 // Event listeners
 document.getElementById("searchInput").addEventListener("input", applyFilters);
 document.querySelectorAll(".colorCheck").forEach(c=>c.addEventListener("change", applyFilters));
-document.getElementById("seasonFilter").addEventListener("change", applyFilters);
-document.getElementById("categoryFilter").addEventListener("change", applyFilters);
 document.getElementById("yearFilter").addEventListener("change", applyFilters);
 document.getElementById("sortFilter").addEventListener("change", applyFilters);
 document.getElementById("memberCheck").addEventListener("change", applyFilters);
