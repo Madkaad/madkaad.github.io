@@ -363,5 +363,176 @@
     "year": 2024,
     "member": false,
     "image": "ajimages/Iisah_wall_sticker.png"
+  },
+  {
+    "name": "Qw072 Plushie",
+    "colors": ["brown"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Qw072_plushie.png"
+  },
+  {
+    "name": "Ghostie Plushie",
+    "colors": ["brown"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Ghostie_plushie.png"
+  },
+  {
+    "name": "Galaxymintz Plushie",
+    "colors": ["red"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Galaxymintz_plushie.png"
+  },
+  {
+    "name": "Wisteriamoon Plushie",
+    "colors": ["brown", "pink"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Wisteriamoon_plushie.png"
+  },
+  {
+    "name": "Funfox Plushie",
+    "colors": ["red"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Funfox_plushie.png"
+  },
+  {
+    "name": "Catiecat21 Plushie",
+    "colors": ["green", "yellow"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Catiecat21_plushie.png"
+  },
+  {
+    "name": "Ava1234ava Plushie",
+    "colors": ["pink", "black"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Ava1234ava_plushie.png"
+  },
+  {
+    "name": "Delocate Plushie",
+    "colors": ["purple"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Delocate_plushie.png"
+  },
+  {
+    "name": "Cherrioz Plushie",
+    "colors": ["yellow", "black"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Cherrioz_plushie.png"
+  },
+  {
+    "name": "Kittenlove133 Plushie",
+    "colors": ["purple", "blue"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Kittenlove133_plushie.png"
+  },
+  {
+    "name": "Animalloverjammer Plushie",
+    "colors": ["pink"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Animalloverjammer_plushie.png"
+  },
+  {
+    "name": "AJHQ Plushie",
+    "colors": ["pink", "white"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "AJHQ_plushie.png"
+  },
+  {
+    "name": "L30ra Plushie",
+    "colors": ["yellow", "purple", "orange"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "L30ra_plushie.png"
+  },
+  {
+    "name": "Fullmoonbunny Plushie",
+    "colors": ["pink", "white"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Fullmoonbunny_plushie.png"
+  },
+  {
+    "name": "Azure21 Plushie",
+    "colors": ["white", "red"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Azure21_plushie.png"
+  },
+  {
+    "name": "Theshadyraccoon Plushie",
+    "colors": ["purple"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Theshadyraccoon_plushie.png"
+  },
+  {
+    "name": "Kutekoolkitten Plushie",
+    "colors": ["yellow", "blue"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Kutekoolkitten_plushie.png"
+  },
+  {
+    "name": "Bradstormer Plushie",
+    "colors": ["yellow"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Bradstormer_plushie.png"
+  },
+  {
+    "name": "Iisah Plushie",
+    "colors": ["purple", "green"],
+    "season": "",
+    "category": "other",
+    "year": 2024,
+    "member": false,
+    "image": "Iisah_plushie.png"
   }
 ]
