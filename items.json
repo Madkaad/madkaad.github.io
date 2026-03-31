@@ -518,7 +518,8 @@
   {
     "name": "Post Office",
     "colors": [
-      "brown"
+      "brown",
+      "white"
     ],
     "image": "ajimages/Post Office_brown.png",
     "year": 2024,
