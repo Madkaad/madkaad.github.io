@@ -1,159 +1,193 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta charset="UTF-8">
-<title>Animal Jam Item Archive</title>
-<style>
-  body { font-family: Arial; margin: 20px; background:#f5f5f5; }
-  h1 { text-align:center; }
-  .controls { display:flex; flex-wrap:wrap; gap:10px; margin-bottom:20px; justify-content:center; }
-  input, select { padding:8px; font-size:14px; }
-  .grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(150px,1fr)); gap:15px; }
-  .card { background:white; padding:10px; border-radius:10px; text-align:center; box-shadow:0 2px 5px rgba(0,0,0,0.1); cursor:pointer; }
-  .card img { max-width:100%; height:100px; object-fit:contain; }
-  #lightbox { display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); justify-content:center; align-items:center; }
-  #lightbox-content { background:white; padding:20px; border-radius:10px; text-align:center; }
-  #lightbox img { max-width:300px; }
-  button { padding:8px 12px; margin:5px; cursor:pointer; }
-</style>
+  <meta charset="UTF-8">
+  <title>Animal Jam Item Archive</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    .filters { display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px; }
+    .filters div { display: flex; flex-direction: column; }
+    .item-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 15px; }
+    .item { border: 1px solid #ccc; padding: 5px; text-align: center; cursor: pointer; }
+    .item img { max-width: 100px; max-height: 100px; display: block; margin: 0 auto 5px; }
+    .lightbox { display: none; position: fixed; top:0; left:0; width:100%; height:100%; background: rgba(0,0,0,0.8); justify-content:center; align-items:center; }
+    .lightbox img { max-width: 90%; max-height: 90%; }
+    .lightbox button { position:absolute; top:20px; right:20px; padding:10px; }
+  </style>
 </head>
 <body>
 
 <h1>Animal Jam Item Archive</h1>
 
-<div class="controls">
-  <input type="text" id="search" placeholder="Search items...">
-  
-  <select id="colorFilter">
-    <option value="">All Colors</option>
-    <option>white</option>
-    <option>black</option>
-    <option>brown</option>
-    <option>yellow</option>
-    <option>green</option>
-    <option>red</option>
-    <option>blue</option>
-    <option>pink</option>
-    <option>purple</option>
-    <option>orange</option>
-  </select>
+<div class="filters">
+  <div>
+    <label>Search:</label>
+    <input type="text" id="searchInput" placeholder="Search by name">
+  </div>
 
-  <select id="seasonFilter">
-    <option value="">All Seasons</option>
-    <option>Jamaaliday</option>
-    <option>Night of the Phantoms</option>
-    <option>Lucky Clovers</option>
-    <option>Friendship Festival</option>
-    <option>Feast of Thanks</option>
-    <option>Easter</option>
-    <option>New Year</option>
-    <option>Freedom</option>
-  </select>
+  <div>
+    <label>Color:</label>
+    <select id="colorFilter">
+      <option value="all">All</option>
+      <option>white</option><option>black</option><option>brown</option>
+      <option>yellow</option><option>green</option><option>red</option>
+      <option>blue</option><option>pink</option><option>purple</option>
+      <option>orange</option>
+    </select>
+  </div>
 
-  <select id="yearFilter">
-    <option value="">All Years</option>
-    <option>2010</option>
-    <option>2011</option>
-    <option>2012</option>
-    <option>2013</option>
-    <option>2014</option>
-    <option>2015</option>
-    <option>2016</option>
-    <option>2017</option>
-    <option>2018</option>
-    <option>2019</option>
-    <option>2020</option>
-    <option>2021</option>
-    <option>2022</option>
-    <option>2023</option>
-    <option>2024</option>
-    <option>2025</option>
-    <option>2026</option>
-    <option>2027</option>
-  </select>
+  <div>
+    <label>Season:</label>
+    <select id="seasonFilter">
+      <option value="all">All</option>
+      <option>Jamaaliday</option><option>Night of the Phantoms</option>
+      <option>Lucky Clovers</option><option>Friendship Festival</option>
+      <option>Feast of Thanks</option><option>Easter</option>
+      <option>New Year</option><option>Freedom</option>
+      <option value="none">No Season</option>
+    </select>
+  </div>
 
-  <select id="sort">
-    <option value="az">A → Z</option>
-    <option value="za">Z → A</option>
-    <option value="oldnew">Old → New</option>
-    <option value="newold">New → Old</option>
-  </select>
+  <div>
+    <label>Category:</label>
+    <select id="categoryFilter">
+      <option value="all">All</option>
+      <option>nature</option>
+      <option>other</option>
+    </select>
+  </div>
 
-  <label><input type="checkbox" id="natureOnly"> Nature Only</label>
-</div>
+  <div>
+    <label>Year:</label>
+    <select id="yearFilter">
+      <option value="all">All</option>
+      <script>
+        for(let y=2010;y<=2027;y++){document.write(`<option>${y}</option>`);}
+      </script>
+    </select>
+  </div>
 
-<div class="grid" id="grid"></div>
+  <div>
+    <label>Sort:</label>
+    <select id="sortFilter">
+      <option value="a-z">A → Z</option>
+      <option value="z-a">Z → A</option>
+      <option value="old-new">Old → New</option>
+      <option value="new-old">New → Old</option>
+    </select>
+  </div>
 
-<div id="lightbox">
-  <div id="lightbox-content">
-    <img id="lightbox-img" src="">
-    <h3 id="lightbox-title"></h3>
-    <button id="downloadBtn">Download PNG</button><br>
-    <button onclick="closeLightbox()">Close</button>
+  <div>
+    <label>Membership:</label>
+    <input type="checkbox" id="memberCheck" checked> Member<br>
+    <input type="checkbox" id="nonMemberCheck" checked> Non-Member
   </div>
 </div>
 
+<div class="item-grid" id="itemGrid"></div>
+
+<div class="lightbox" id="lightbox">
+  <button onclick="closeLightbox()">Close</button>
+  <img id="lightboxImg" src="">
+  <a id="downloadLink" download>Download PNG</a>
+</div>
+
 <script>
-const items = [
-  { name:"Wooden Chair", colors:["brown","red"], season:"Jamaaliday", category:"nature", image:"https://via.placeholder.com/100", year:2012 },
-  { name:"Spooky Table", colors:["black","purple"], season:"Night of the Phantoms", category:"other", image:"https://via.placeholder.com/100", year:2015 },
-  { name:"Flower Lamp", colors:["pink","green"], season:"Friendship Festival", category:"nature", image:"https://via.placeholder.com/100", year:2018 },
-  { name:"Freedom Flag", colors:["red","blue"], season:"Freedom", category:"other", image:"https://via.placeholder.com/100", year:2020 }
-];
+let items = [];
 
-const grid = document.getElementById("grid");
+// Load JSON file
+fetch('items.json')
+  .then(response => response.json())
+  .then(data => {
+    items = data;
+    render(items);
+  })
+  .catch(err => console.error("Error loading items.json:", err));
 
-function render(data){
-  grid.innerHTML="";
-  data.forEach(item=>{
-    const card=document.createElement("div");
-    card.className="card";
-    card.innerHTML=`<img src="${item.image}"><h4>${item.name}</h4><p>${item.year}</p>`;
-    card.onclick=()=>openLightbox(item);
-    grid.appendChild(card);
+const itemGrid = document.getElementById("itemGrid");
+
+function render(itemsToRender){
+  itemGrid.innerHTML = "";
+  itemsToRender.forEach(item=>{
+    const div = document.createElement("div");
+    div.className = "item";
+    div.innerHTML = `<img src="${item.image}" alt="${item.name}"><br>${item.name}`;
+    div.onclick = ()=>openLightbox(item);
+    itemGrid.appendChild(div);
   });
 }
 
 function applyFilters(){
-  let filtered=[...items];
-  const search=document.getElementById("search").value.toLowerCase();
-  const color=document.getElementById("colorFilter").value;
-  const season=document.getElementById("seasonFilter").value;
-  const yearFilter=document.getElementById("yearFilter").value;
-  const natureOnly=document.getElementById("natureOnly").checked;
-  const sort=document.getElementById("sort").value;
+  const search = document.getElementById("searchInput").value.toLowerCase();
+  const selectedColor = document.getElementById("colorFilter").value;
+  const selectedSeason = document.getElementById("seasonFilter").value;
+  const selectedCategory = document.getElementById("categoryFilter").value;
+  const selectedYear = document.getElementById("yearFilter").value;
+  const sortType = document.getElementById("sortFilter").value;
+  const showMember = document.getElementById("memberCheck").checked;
+  const showNonMember = document.getElementById("nonMemberCheck").checked;
 
-  if(search) filtered=filtered.filter(i=>i.name.toLowerCase().includes(search));
-  if(color) filtered=filtered.filter(i=>i.colors.includes(color));
-  if(season) filtered=filtered.filter(i=>i.season===season);
-  if(yearFilter) filtered=filtered.filter(i=>i.year==parseInt(yearFilter));
-  if(natureOnly) filtered=filtered.filter(i=>i.category==="nature");
+  let filtered = items.filter(item=>{
+    // Member filter logic
+    if(!showMember && !showNonMember) return true;
+    if(item.member && !showMember) return false;
+    if(!item.member && !showNonMember) return false;
 
-  if(sort==="az") filtered.sort((a,b)=>a.name.localeCompare(b.name));
-  else if(sort==="za") filtered.sort((a,b)=>b.name.localeCompare(a.name));
-  else if(sort==="oldnew") filtered.sort((a,b)=>a.year-b.year);
-  else if(sort==="newold") filtered.sort((a,b)=>b.year-a.year);
+    // Search
+    if(!item.name.toLowerCase().includes(search)) return false;
+
+    // Color
+    if(selectedColor!=="all" && !item.colors.includes(selectedColor)) return false;
+
+    // Season
+    if(selectedSeason!=="all"){
+      if(selectedSeason==="none" && item.season!=="") return false;
+      else if(selectedSeason!=="none" && item.season!==selectedSeason) return false;
+    }
+
+    // Category
+    if(selectedCategory!=="all" && item.category!==selectedCategory) return false;
+
+    // Year
+    if(selectedYear!=="all" && item.year!=parseInt(selectedYear)) return false;
+
+    return true;
+  });
+
+  // Sorting
+  if(sortType==="a-z") filtered.sort((a,b)=>a.name.localeCompare(b.name));
+  else if(sortType==="z-a") filtered.sort((a,b)=>b.name.localeCompare(a.name));
+  else if(sortType==="old-new") filtered.sort((a,b)=>a.year-b.year);
+  else if(sortType==="new-old") filtered.sort((a,b)=>b.year-a.year);
 
   render(filtered);
 }
 
+// Lightbox
+const lightbox = document.getElementById("lightbox");
+const lightboxImg = document.getElementById("lightboxImg");
+const downloadLink = document.getElementById("downloadLink");
+
 function openLightbox(item){
-  document.getElementById("lightbox").style.display="flex";
-  document.getElementById("lightbox-img").src=item.image;
-  document.getElementById("lightbox-title").innerText=item.name+" ("+item.year+")";
-  document.getElementById("downloadBtn").onclick=()=>{
-    const link=document.createElement("a");
-    link.href=item.image;
-    link.download=item.name+".png";
-    link.click();
-  };
+  lightbox.style.display="flex";
+  lightboxImg.src = item.image;
+  downloadLink.href = item.image;
+  downloadLink.download = item.name+".png";
 }
 
-function closeLightbox(){ document.getElementById("lightbox").style.display="none"; }
+function closeLightbox(){
+  lightbox.style.display="none";
+}
 
-document.querySelectorAll("input, select").forEach(el=>el.addEventListener("input", applyFilters));
-
-render(items);
+// Event listeners
+document.getElementById("searchInput").addEventListener("input", applyFilters);
+document.getElementById("colorFilter").addEventListener("change", applyFilters);
+document.getElementById("seasonFilter").addEventListener("change", applyFilters);
+document.getElementById("categoryFilter").addEventListener("change", applyFilters);
+document.getElementById("yearFilter").addEventListener("change", applyFilters);
+document.getElementById("sortFilter").addEventListener("change", applyFilters);
+document.getElementById("memberCheck").addEventListener("change", applyFilters);
+document.getElementById("nonMemberCheck").addEventListener("change", applyFilters);
 </script>
 
 </body>
