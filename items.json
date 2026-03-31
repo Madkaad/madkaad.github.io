@@ -483,10 +483,7 @@
   },
    {
     "name": "Bepper Plushie",
-    "colors": [
-      "white",
-      "red"
-    ],
+    "colors": ["white","red"],
     "season": "",
     "category": "other",
     "image": "ajimages/Bepper_plushie.png",
@@ -495,9 +492,7 @@
   },
   {
     "name": "Chocolates4froggy Plushie",
-    "colors": [
-      "pink"
-    ],
+    "colors": ["pink"],
     "season": "",
     "category": "other",
     "image": "ajimages/Chocolates4froggy_plushie.png",
@@ -506,9 +501,7 @@
   },
   {
     "name": "CupcakeCeline Plushie",
-    "colors": [
-      "black"
-    ],
+    "colors": ["black"],
     "season": "",
     "category": "other",
     "image": "ajimages/CupcakeCeline_plushie.png",
@@ -517,10 +510,7 @@
   },
   {
     "name": "Pugfluff Plushie",
-    "colors": [
-      "yellow",
-      "brown"
-    ],
+    "colors": ["yellow","brown"],
     "season": "",
     "category": "other",
     "image": "ajimages/Pugfluff_plushie.png",
@@ -529,9 +519,7 @@
   },
   {
     "name": "TheShopKing Plushie",
-    "colors": [
-      "white"
-    ],
+    "colors": ["white"],
     "season": "",
     "category": "other",
     "image": "ajimages/TheShopKing_plushie.png",
@@ -540,9 +528,7 @@
   },
    {
     "name": "Sturdy Table",
-    "colors": [
-      "brown"
-    ],
+    "colors": ["brown"],
     "season": "",
     "category": "nature",
     "image": "ajimages/sturdy_table.png",
@@ -551,9 +537,7 @@
   },
   {
     "name": "Tiki Torch",
-    "colors": [
-      "brown"
-    ],
+    "colors": ["brown"],
     "season": "",
     "category": "other",
     "image": "ajimages/Tiki_torch.png",
@@ -562,9 +546,7 @@
   },
   {
     "name": "Pink Argyle Walls",
-    "colors": [
-      "pink"
-    ],
+    "colors": ["pink"],
     "season": "",
     "category": "other",
     "image": "ajimages/Pink_argyle_walls_pink.png",
@@ -573,9 +555,7 @@
   },
   {
     "name": "Green Slime Walls",
-    "colors": [
-      "green"
-    ],
+    "colors": ["green"],
     "season": "",
     "category": "other",
     "image": "ajimages/Green_slime_walls.png",
@@ -584,9 +564,7 @@
   },
   {
     "name": "Grass Carpet",
-    "colors": [
-      "green"
-    ],
+    "colors": ["green"],
     "season": "",
     "category": "other",
     "image": "ajimages/grass_carpet.png",
@@ -595,9 +573,7 @@
   },
   {
     "name": "Blue Star Walls",
-    "colors": [
-      "blue"
-    ],
+    "colors": ["blue"],
     "season": "",
     "category": "other",
     "image": "ajimages/blue_star_walls.png",
@@ -606,9 +582,7 @@
   },
   {
     "name": "Brown Tile",
-    "colors": [
-      "brown"
-    ],
+    "colors": ["brown"],
     "season": "",
     "category": "other",
     "image": "ajimages/brown_tile.png",
@@ -626,9 +600,7 @@
   },
   {
     "name": "Rainbow Pink Walls",
-    "colors": [
-      "pink"
-    ],
+    "colors": ["pink"],
     "season": "",
     "category": "other",
     "image": "ajimages/Rainbow_Pink_Walls.png",
@@ -637,10 +609,7 @@
   },
   {
     "name": "Yellow Diner Tiles",
-    "colors": [
-      "yellow",
-      "brown"
-    ],
+    "colors": ["yellow","brown"],
     "season": "",
     "category": "other",
     "image": "ajimages/yellow_diner_tiles.png",
@@ -649,9 +618,7 @@
   },
   {
     "name": "Blue Sky",
-    "colors": [
-      "blue"
-    ],
+    "colors": ["blue"],
     "season": "",
     "category": "other",
     "image": "ajimages/blue_sky.png",
@@ -660,9 +627,7 @@
   },
   {
     "name": "Pink Striped Walls",
-    "colors": [
-      "pink"
-    ],
+    "colors": ["pink"],
     "season": "",
     "category": "other",
     "image": "ajimages/pink_striped_walls.png",
@@ -671,10 +636,7 @@
   },
   {
     "name": "Dust Striped Walls",
-    "colors": [
-      "red",
-      "brown"
-    ],
+    "colors": ["red","brown"],
     "season": "",
     "category": "other",
     "image": "ajimages/dust_striped_walls.png",
@@ -683,10 +645,7 @@
   },
   {
     "name": "Lava Floor",
-    "colors": [
-      "orange",
-      "brown"
-    ],
+    "colors": ["orange","brown"],
     "season": "",
     "category": "other",
     "image": "ajimages/Lava_floor.png",
