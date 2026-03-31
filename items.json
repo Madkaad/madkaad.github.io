@@ -2,8 +2,6 @@
   {
     "name": "Broccoli Tree",
     "colors": ["green"],
-    "season": "",
-    "category": "nature",
     "image": "ajimages/broccolitree_green.png",
     "year": 2019,
     "member": false
@@ -11,8 +9,6 @@
   {
     "name": "Movie Reels",
     "colors": ["red"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/stack_of_movie_reels_red.png",
     "year": 2015,
     "member": true
@@ -20,8 +16,6 @@
   {
     "name": "Movie Reels",
     "colors": ["brown"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/stack_of_movie_reels_brown.png",
     "year": 2015,
     "member": true
@@ -29,8 +23,6 @@
   {
     "name": "Movie Reels",
     "colors": ["green"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/stack_of_movie_reels_green.png",
     "year": 2015,
     "member": true
@@ -38,8 +30,6 @@
   {
     "name": "Movie Reels",
     "colors": ["gray"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/stack_of_movie_reels_grey.png",
     "year": 2015,
     "member": true
@@ -47,8 +37,6 @@
   {
     "name": "Movie Reels",
     "colors": ["blue"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/stack_of_movie_reels_blue.png",
     "year": 2015,
     "member": true
@@ -56,8 +44,6 @@
   {
     "name": "Movie Reels",
     "colors": ["orange"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/stack_of_movie_reels_orange.png",
     "year": 2015,
     "member": true
@@ -65,8 +51,6 @@
   {
     "name": "Movie Reels",
     "colors": ["pink"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/stack_of_movie_reels_pink.png",
     "year": 2015,
     "member": true
@@ -74,8 +58,6 @@
   {
     "name": "Movie Reels",
     "colors": ["yellow"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/stack_of_movie_reels_yellow.png",
     "year": 2015,
     "member": true
@@ -83,409 +65,279 @@
   {
     "name": "Movie Reels",
     "colors": ["purple"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/stack_of_movie_reels_purple.png",
     "year": 2015,
     "member": true
   },
-    {
+  {
     "name": "Qw072 Wall Sticker",
-    "colors": [
-      "brown"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["brown"],
+    "image": "ajimages/Qw072_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Qw072_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Ghostie Wall Sticker",
-    "colors": [
-      "brown"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["brown"],
+    "image": "ajimages/Ghostie_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Ghostie_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Galaxymintz Wall Sticker",
-    "colors": [
-      "red"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["red"],
+    "image": "ajimages/Galaxymintz_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Galaxymintz_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Wisteriamoon Wall Sticker",
-    "colors": [
-      "brown",
-      "pink"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["brown", "pink"],
+    "image": "ajimages/Wisteriamoon_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Wisteriamoon_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Funfox Wall Sticker",
-    "colors": [
-      "red"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["red"],
+    "image": "ajimages/Funfox_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Funfox_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Catiecat21 Wall Sticker",
-    "colors": [
-      "green",
-      "yellow"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["green", "yellow"],
+    "image": "ajimages/Catiecat21_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Catiecat21_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Ava1234ava Wall Sticker",
-    "colors": [
-      "pink",
-      "black"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["pink", "black"],
+    "image": "ajimages/Ava1234ava_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Ava1234ava_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Delocate Wall Sticker",
-    "colors": [
-      "purple"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["purple"],
+    "image": "ajimages/Delocate_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Delocate_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Cherrioz Wall Sticker",
-    "colors": [
-      "yellow",
-      "black"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["yellow", "black"],
+    "image": "ajimages/Cherrioz_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Cherrioz_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Kittenlove133 Wall Sticker",
-    "colors": [
-      "purple",
-      "blue"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["purple", "blue"],
+    "image": "ajimages/Kittenlove133_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Kittenlove133_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Animalloverjammer Wall Sticker",
-    "colors": [
-      "pink"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["pink"],
+    "image": "ajimages/Animalloverjammer_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Animalloverjammer_wall_sticker.png"
+    "member": false
   },
   {
     "name": "AJHQ Wall Sticker",
-    "colors": [
-      "pink",
-      "white"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["pink", "white"],
+    "image": "ajimages/AJHQ_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/AJHQ_wall_sticker.png"
+    "member": false
   },
   {
     "name": "L30ra Wall Sticker",
-    "colors": [
-      "yellow",
-      "purple",
-      "orange"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["yellow", "purple", "orange"],
+    "image": "ajimages/L30ra_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/L30ra_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Fullmoonbunny Wall Sticker",
-    "colors": [
-      "pink",
-      "white"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["pink", "white"],
+    "image": "ajimages/Fullmoonbunny_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Fullmoonbunny_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Azure21 Wall Sticker",
-    "colors": [
-      "white",
-      "red"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["white", "red"],
+    "image": "ajimages/Azure21_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Azure21_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Theshadyraccoon Wall Sticker",
-    "colors": [
-      "purple"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["purple"],
+    "image": "ajimages/Theshadyraccoon_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Theshadyraccoon_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Kutekoolkitten Wall Sticker",
-    "colors": [
-      "yellow",
-      "blue"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["yellow", "blue"],
+    "image": "ajimages/Kutekoolkitten_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Kutekoolkitten_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Bradstormer Wall Sticker",
-    "colors": [
-      "yellow"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["yellow"],
+    "image": "ajimages/Bradstormer_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Bradstormer_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Iisah Wall Sticker",
-    "colors": [
-      "purple",
-      "green"
-    ],
-    "season": "",
-    "category": "other",
+    "colors": ["purple", "green"],
+    "image": "ajimages/Iisah_wall_sticker.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Iisah_wall_sticker.png"
+    "member": false
   },
   {
     "name": "Qw072 Plushie",
     "colors": ["brown"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Qw072_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Qw072_plushie.png"
+    "member": false
   },
   {
     "name": "Ghostie Plushie",
     "colors": ["brown"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Ghostie_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Ghostie_plushie.png"
+    "member": false
   },
   {
     "name": "Galaxymintz Plushie",
     "colors": ["red"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Galaxymintz_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Galaxymintz_plushie.png"
+    "member": false
   },
   {
     "name": "Wisteriamoon Plushie",
     "colors": ["brown", "pink"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Wisteriamoon_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Wisteriamoon_plushie.png"
+    "member": false
   },
   {
     "name": "Funfox Plushie",
     "colors": ["red"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Funfox_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Funfox_plushie.png"
+    "member": false
   },
   {
     "name": "Catiecat21 Plushie",
     "colors": ["green", "yellow"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Catiecat21_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Catiecat21_plushie.png"
+    "member": false
   },
   {
     "name": "Ava1234ava Plushie",
     "colors": ["pink", "black"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Ava1234ava_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Ava1234ava_plushie.png"
+    "member": false
   },
   {
     "name": "Delocate Plushie",
     "colors": ["purple"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Delocate_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Delocate_plushie.png"
+    "member": false
   },
   {
     "name": "Cherrioz Plushie",
     "colors": ["yellow", "black"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Cherrioz_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Cherrioz_plushie.png"
+    "member": false
   },
   {
     "name": "Kittenlove133 Plushie",
     "colors": ["purple", "blue"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Kittenlove133_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Kittenlove133_plushie.png"
+    "member": false
   },
   {
     "name": "Animalloverjammer Plushie",
     "colors": ["pink"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Animalloverjammer_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Animalloverjammer_plushie.png"
+    "member": false
   },
   {
     "name": "AJHQ Plushie",
     "colors": ["pink", "white"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/AJHQ_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/AJHQ_plushie.png"
+    "member": false
   },
   {
     "name": "L30ra Plushie",
     "colors": ["yellow", "purple", "orange"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/L30ra_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/L30ra_plushie.png"
+    "member": false
   },
   {
     "name": "Fullmoonbunny Plushie",
     "colors": ["pink", "white"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Fullmoonbunny_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Fullmoonbunny_plushie.png"
+    "member": false
   },
   {
     "name": "Azure21 Plushie",
     "colors": ["white", "red"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Azure21_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Azure21_plushie.png"
+    "member": false
   },
   {
     "name": "Theshadyraccoon Plushie",
     "colors": ["purple"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Theshadyraccoon_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Theshadyraccoon_plushie.png"
+    "member": false
   },
   {
     "name": "Kutekoolkitten Plushie",
     "colors": ["yellow", "blue"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Kutekoolkitten_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Kutekoolkitten_plushie.png"
+    "member": false
   },
   {
     "name": "Bradstormer Plushie",
     "colors": ["yellow"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Bradstormer_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Bradstormer_plushie.png"
+    "member": false
   },
   {
     "name": "Iisah Plushie",
     "colors": ["purple", "green"],
-    "season": "",
-    "category": "other",
+    "image": "ajimages/Iisah_plushie.png",
     "year": 2024,
-    "member": false,
-    "image": "ajimages/Iisah_plushie.png"
+    "member": false
   },
-   {
+  {
     "name": "Bepper Plushie",
     "colors": ["white","red"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/Bepper_plushie.png",
     "year": 2024,
     "member": false
@@ -493,8 +345,6 @@
   {
     "name": "Chocolates4froggy Plushie",
     "colors": ["pink"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/Chocolates4froggy_plushie.png",
     "year": 2024,
     "member": false
@@ -502,8 +352,6 @@
   {
     "name": "CupcakeCeline Plushie",
     "colors": ["black"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/CupcakeCeline_plushie.png",
     "year": 2024,
     "member": false
@@ -511,8 +359,6 @@
   {
     "name": "Pugfluff Plushie",
     "colors": ["yellow","brown"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/Pugfluff_plushie.png",
     "year": 2024,
     "member": false
@@ -520,17 +366,13 @@
   {
     "name": "TheShopKing Plushie",
     "colors": ["white"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/TheShopKing_plushie.png",
     "year": 2024,
     "member": false
   },
-   {
+  {
     "name": "Sturdy Table",
     "colors": ["brown"],
-    "season": "",
-    "category": "nature",
     "image": "ajimages/sturdy_table.png",
     "year": 2010,
     "member": false
@@ -538,8 +380,6 @@
   {
     "name": "Tiki Torch",
     "colors": ["brown"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/Tiki_torch.png",
     "year": 2010,
     "member": false
@@ -547,8 +387,6 @@
   {
     "name": "Pink Argyle Walls",
     "colors": ["pink"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/Pink_argyle_walls_pink.png",
     "year": 2010,
     "member": true
@@ -556,8 +394,6 @@
   {
     "name": "Green Slime Walls",
     "colors": ["green"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/Green_slime_walls.png",
     "year": 2010,
     "member": true
@@ -565,8 +401,6 @@
   {
     "name": "Grass Carpet",
     "colors": ["green"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/grass_carpet.png",
     "year": 2010,
     "member": true
@@ -574,8 +408,6 @@
   {
     "name": "Blue Star Walls",
     "colors": ["blue"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/blue_star_walls.png",
     "year": 2010,
     "member": true
@@ -583,8 +415,6 @@
   {
     "name": "Brown Tile",
     "colors": ["brown"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/brown_tile.png",
     "year": 2011,
     "member": true
@@ -592,8 +422,6 @@
   {
     "name": "Slate Floor",
     "colors": ["gray"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/slate_floor.png",
     "year": 2010,
     "member": true
@@ -601,8 +429,6 @@
   {
     "name": "Rainbow Pink Walls",
     "colors": ["pink"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/Rainbow_Pink_Walls.png",
     "year": 2010,
     "member": true
@@ -610,8 +436,6 @@
   {
     "name": "Yellow Diner Tiles",
     "colors": ["yellow","brown"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/yellow_diner_tiles.png",
     "year": 2010,
     "member": true
@@ -619,8 +443,6 @@
   {
     "name": "Blue Sky",
     "colors": ["blue"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/blue_sky.png",
     "year": 2010,
     "member": false
@@ -628,8 +450,6 @@
   {
     "name": "Pink Striped Walls",
     "colors": ["pink"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/pink_striped_walls.png",
     "year": 2010,
     "member": true
@@ -637,8 +457,6 @@
   {
     "name": "Dust Striped Walls",
     "colors": ["red","brown"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/dust_striped_walls.png",
     "year": 2010,
     "member": true
@@ -646,8 +464,6 @@
   {
     "name": "Lava Floor",
     "colors": ["orange","brown"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/Lava_floor.png",
     "year": 2010,
     "member": true
@@ -655,8 +471,6 @@
   {
     "name": "Starry Walls",
     "colors": ["blue"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/starry_walls.png",
     "year": 2010,
     "member": true
@@ -664,8 +478,6 @@
   {
     "name": "Map",
     "colors": ["brown"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/Map_brown.png",
     "year": 2010,
     "member": true
@@ -673,8 +485,6 @@
   {
     "name": "Window",
     "colors": ["brown"],
-    "season": "",
-    "category": "nature",
     "image": "ajimages/Window_brown.png",
     "year": 2010,
     "member": true
@@ -682,8 +492,6 @@
   {
     "name": "Blue Rug",
     "colors": ["blue"],
-    "season": "",
-    "category": "other",
     "image": "ajimages/Blue_rug_blue.png",
     "year": 2010,
     "member": true
