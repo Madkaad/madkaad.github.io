@@ -819,7 +819,7 @@
     "name": "Lucky Seven Statue",
     "colors": ["yellow"],
     "image": "ajimages/lucky_seven_statue_yellow.png",
-    "year": 2019,
+    "year": 2021,
     "member": true
   },
   {
@@ -995,6 +995,457 @@
     "name": "Lucky Skunk Chair",
     "colors": ["black"],
     "image": "ajimages/Lucky_Skunk_Chair8_black.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Perfume",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Perfume1_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Perfume",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Perfume2_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Perfume",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Perfume3_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Perfume",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Perfume4_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Perfume",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Perfume5_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Perfume",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Perfume6_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Perfume",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Perfume7_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Perfume",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Perfume8_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chaise Lounge",
+    "colors": ["purple"],
+    "image": "ajimages/Lucky_Skunk_Chaise_Lounge1_purple.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chaise Lounge",
+    "colors": ["blue"],
+    "image": "ajimages/Lucky_Skunk_Chaise_Lounge2_blue.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chaise Lounge",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Chaise_Lounge3_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chaise Lounge",
+    "colors": ["yellow"],
+    "image": "ajimages/Lucky_Skunk_Chaise_Lounge4_yellow.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chaise Lounge",
+    "colors": ["red"],
+    "image": "ajimages/Lucky_Skunk_Chaise_Lounge5_red.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chaise Lounge",
+    "colors": ["pink"],
+    "image": "ajimages/Lucky_Skunk_Chaise_Lounge6_pink.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chaise Lounge",
+    "colors": ["white"],
+    "image": "ajimages/Lucky_Skunk_Chaise_Lounge7_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chaise Lounge",
+    "colors": ["black"],
+    "image": "ajimages/Lucky_Skunk_Chaise_Lounge8_black.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Well",
+    "colors": ["purple"],
+    "image": "ajimages/Lucky_Skunk_Well1_purple.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Well",
+    "colors": ["blue"],
+    "image": "ajimages/Lucky_Skunk_Well2_blue.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Well",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Well3_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Well",
+    "colors": ["yellow"],
+    "image": "ajimages/Lucky_Skunk_Well4_yellow.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Well",
+    "colors": ["red"],
+    "image": "ajimages/Lucky_Skunk_Well5_red.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Well",
+    "colors": ["pink"],
+    "image": "ajimages/Lucky_Skunk_Well6_pink.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Well",
+    "colors": ["white"],
+    "image": "ajimages/Lucky_Skunk_Well7_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Well",
+    "colors": ["black"],
+    "image": "ajimages/Lucky_Skunk_Well8_black.png",
+    "year": 2019,
+    "member": true
+  },
+
+  {
+    "name": "Lucky Skunk Trash Can",
+    "colors": ["purple"],
+    "image": "ajimages/Lucky_Skunk_Trash_Can1_purple.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Trash Can",
+    "colors": ["blue"],
+    "image": "ajimages/Lucky_Skunk_Trash_Can2_blue.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Trash Can",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Trash_Can3_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Trash Can",
+    "colors": ["yellow"],
+    "image": "ajimages/Lucky_Skunk_Trash_Can4_yellow.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Trash Can",
+    "colors": ["red"],
+    "image": "ajimages/Lucky_Skunk_Trash_Can5_red.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Trash Can",
+    "colors": ["pink"],
+    "image": "ajimages/Lucky_Skunk_Trash_Can6_pink.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Trash Can",
+    "colors": ["white"],
+    "image": "ajimages/Lucky_Skunk_Trash_Can7_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Trash Can",
+    "colors": ["black"],
+    "image": "ajimages/Lucky_Skunk_Trash_Can8_black.png",
+    "year": 2019,
+    "member": true
+  }
+  {
+    "name": "Lucky Skunk Archway",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Archway1_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Archway",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Archway2_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Archway",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Archway3_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Archway",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Archway4_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Archway",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Archway5_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Archway",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Archway6_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Archway",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Archway7_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Archway",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Archway8_green.png",
+    "year": 2019,
+    "member": true
+  },
+  
+  {
+    "name": "Lucky Skunk Window",
+    "colors": ["purple"],
+    "image": "ajimages/Lucky_Skunk_Window1_purple.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Window",
+    "colors": ["blue"],
+    "image": "ajimages/Lucky_Skunk_Window2_blue.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Window",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Window3_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Window",
+    "colors": ["yellow"],
+    "image": "ajimages/Lucky_Skunk_Window4_yellow.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Window",
+    "colors": ["red"],
+    "image": "ajimages/Lucky_Skunk_Window5_red.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Window",
+    "colors": ["pink"],
+    "image": "ajimages/Lucky_Skunk_Window6_pink.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Window",
+    "colors": ["white"],
+    "image": "ajimages/Lucky_Skunk_Window7_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Window",
+    "colors": ["black"],
+    "image": "ajimages/Lucky_Skunk_Window8_black.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Lamp",
+    "colors": ["purple", "green"],
+    "image": "ajimages/Lucky_Skunk_Lamp1_purple_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Lamp",
+    "colors": ["blue", "green"],
+    "image": "ajimages/Lucky_Skunk_Lamp2_blue_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Lamp",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Lamp3_green_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Lamp",
+    "colors": ["yellow", "green"],
+    "image": "ajimages/Lucky_Skunk_Lamp4_yellow_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Lamp",
+    "colors": ["red", "green"],
+    "image": "ajimages/Lucky_Skunk_Lamp5_red_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Lamp",
+    "colors": ["pink", "green"],
+    "image": "ajimages/Lucky_Skunk_Lamp6_pink_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Lamp",
+    "colors": ["white", "green"],
+    "image": "ajimages/Lucky_Skunk_Lamp7_white_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Lamp",
+    "colors": ["black", "green"],
+    "image": "ajimages/Lucky_Skunk_Lamp8_black_green.png",
+    "year": 2019,
+    "member": true
+  },
+
+  {
+    "name": "Lucky Skunk Table",
+    "colors": ["purple"],
+    "image": "ajimages/Lucky_Skunk_Table1_purple.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Table",
+    "colors": ["blue"],
+    "image": "ajimages/Lucky_Skunk_Table2_blue.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Table",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Table3_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Table",
+    "colors": ["yellow"],
+    "image": "ajimages/Lucky_Skunk_Table4_yellow.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Table",
+    "colors": ["red"],
+    "image": "ajimages/Lucky_Skunk_Table5_red.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Table",
+    "colors": ["pink"],
+    "image": "ajimages/Lucky_Skunk_Table6_pink.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Table",
+    "colors": ["white"],
+    "image": "ajimages/Lucky_Skunk_Table7_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Table",
+    "colors": ["black"],
+    "image": "ajimages/Lucky_Skunk_Table8_black.png",
     "year": 2019,
     "member": true
   }
