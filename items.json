@@ -755,7 +755,7 @@
   },
   {
     "name": "Broken Hearts Fortress Archway",
-    "colors": ["black", "purple"],
+    "colors": ["purple"],
     "image": "ajimages/Broken_Hearts_Fortress_Archway.png",
     "year": 2026,
     "member": true
