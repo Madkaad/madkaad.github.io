@@ -814,5 +814,188 @@
     "image": "ajimages/Purple_Heart-Shaped_Grate.png",
     "year": 2026,
     "member": true
+  },
+  {
+    "name": "Lucky Seven Statue",
+    "colors": ["yellow"],
+    "image": "ajimages/lucky_seven_statue_yellow.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Treasure Chest",
+    "colors": [],
+    "image": "ajimages/Lucky_Skunk_Treasure_Chest_.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Rug",
+    "colors": ["purple"],
+    "image": "ajimages/Lucky_Skunk_Rug1_purple.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Rug",
+    "colors": ["blue"],
+    "image": "ajimages/Lucky_Skunk_Rug2_blue.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Rug",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Rug3_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Rug",
+    "colors": ["yellow"],
+    "image": "ajimages/Lucky_Skunk_Rug4_yellow.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Rug",
+    "colors": ["red"],
+    "image": "ajimages/Lucky_Skunk_Rug5_red.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Rug",
+    "colors": ["pink"],
+    "image": "ajimages/Lucky_Skunk_Rug6_pink.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Rug",
+    "colors": ["gray"],
+    "image": "ajimages/Lucky_Skunk_Rug8_gray.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Rug",
+    "colors": ["white"],
+    "image": "ajimages/Lucky_Skunk_Rug7_white.png",
+    "year": 2019,
+    "member": true
+  },
+
+  {
+    "name": "Lucky Skunk Fountain",
+    "colors": ["purple", "green", "white"],
+    "image": "ajimages/Lucky_Skunk_Fountain1_purple_green_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Fountain",
+    "colors": ["blue", "green", "white"],
+    "image": "ajimages/Lucky_Skunk_Fountain2_blue_green_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Fountain",
+    "colors": ["green", "white"],
+    "image": "ajimages/Lucky_Skunk_Fountain3_green_green_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Fountain",
+    "colors": ["green", "white"],
+    "image": "ajimages/Lucky_Skunk_Fountain4_green_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Fountain",
+    "colors": ["red", "green", "white"],
+    "image": "ajimages/Lucky_Skunk_Fountain5_red_green_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Fountain",
+    "colors": ["pink", "green", "white"],
+    "image": "ajimages/Lucky_Skunk_Fountain6_pink_green_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Fountain",
+    "colors": ["white", "green"],
+    "image": "ajimages/Lucky_Skunk_Fountain7_white_green_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Fountain",
+    "colors": ["black", "green", "white"],
+    "image": "ajimages/Lucky_Skunk_Fountain8_black_green_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chair",
+    "colors": ["purple"],
+    "image": "ajimages/Lucky_Skunk_Chair1_purple.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chair",
+    "colors": ["blue"],
+    "image": "ajimages/Lucky_Skunk_Chair2_blue.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chair",
+    "colors": ["green"],
+    "image": "ajimages/Lucky_Skunk_Chair3_green.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chair",
+    "colors": ["yellow"],
+    "image": "ajimages/Lucky_Skunk_Chair4_yellow.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chair",
+    "colors": ["red"],
+    "image": "ajimages/Lucky_Skunk_Chair5_red.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chair",
+    "colors": ["pink"],
+    "image": "ajimages/Lucky_Skunk_Chair6_pink.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chair",
+    "colors": ["white"],
+    "image": "ajimages/Lucky_Skunk_Chair7_white.png",
+    "year": 2019,
+    "member": true
+  },
+  {
+    "name": "Lucky Skunk Chair",
+    "colors": ["black"],
+    "image": "ajimages/Lucky_Skunk_Chair8_black.png",
+    "year": 2019,
+    "member": true
   }
 ]
