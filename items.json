@@ -657,20 +657,14 @@
   },
   {
     "name": "Garden Archway",
-    "colors": [
-      "gray",
-      "pink"
-    ],
+    "colors": ["white","gray","pink"],
     "image": "ajimages/Garden_Archway_.png",
     "year": 2024,
     "member": true
   },
   {
     "name": "Garden Bench",
-    "colors": [
-      "gray",
-      "pink"
-    ],
+    "colors": ["white","gray","pink"],
     "image": "ajimages/Garden_Bench_.png",
     "year": 2024,
     "member": true
