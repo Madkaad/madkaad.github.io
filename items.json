@@ -4975,5 +4975,42 @@
     "image": "ajimages/compass8.png",
     "year": 9999,
     "member": true
+  },
+  {
+    "name": "sandy seashells",
+    "colors": [
+      "yellow"
+    ],
+    "image": "ajimages/sandy_seashells5.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "ship bench",
+    "colors": [
+      "orange"
+    ],
+    "image": "ajimages/ship_bench5.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "sandcastle sofa",
+    "colors": [
+      "green",
+      "teal"
+    ],
+    "image": "ajimages/sandcastle_sofa5.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "sandcastle sconce",
+    "colors": [
+      "teal"
+    ],
+    "image": "ajimages/sandcastle_sconce8.png",
+    "year": 9999,
+    "member": false
   }
 ]
