@@ -4408,5 +4408,507 @@
     "image": "ajimages/Crescent_marble_chair1.png",
     "year": 9999,
     "member": true
+  },
+
+
+
+  
+  {
+    "name": "sand palace",
+    "colors": [
+      "gray"
+    ],
+    "image": "ajimages/sand_palace.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "sandy seashells",
+    "colors": [
+      "purple"
+    ],
+    "image": "ajimages/sandy_seashells3.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "sandy seashells",
+    "colors": [
+      "blue"
+    ],
+    "image": "ajimages/sandy_seashells7.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "stepping stones",
+    "colors": [
+      "green"
+    ],
+    "image": "ajimages/stepping_stones3.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "stepping stones",
+    "colors": [
+      "purple"
+    ],
+    "image": "ajimages/stepping_stones7.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "ship bench",
+    "colors": [
+      "red"
+    ],
+    "image": "ajimages/ship_bench3.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "ship bench",
+    "colors": [
+      "blue"
+    ],
+    "image": "ajimages/ship_bench7.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "ship's helm table",
+    "colors": [
+      "brown"
+    ],
+    "image": "ajimages/ship's_helm_table2.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "sunken zios mask",
+    "colors": [
+      "brown",
+      "teal"
+    ],
+    "image": "ajimages/sunken_zios_mask.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "sandcastle sofa",
+    "colors": [
+      "yellow",
+      "teal"
+    ],
+    "image": "ajimages/sandcastle_sofa3.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "sandcastle sofa",
+    "colors": [
+      "red",
+      "teal"
+    ],
+    "image": "ajimages/sandcastle_sofa7.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "compass",
+    "colors": [
+      "teal"
+    ],
+    "image": "ajimages/compass2.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "compass",
+    "colors": [
+      "white",
+      "red"
+    ],
+    "image": "ajimages/compass6.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "sandcastle sconce",
+    "colors": [
+      "teal",
+      "black"
+    ],
+    "image": "ajimages/sandcastle_sconce6.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "sandcastle sconce",
+    "colors": [
+      "teal",
+      "orange"
+    ],
+    "image": "ajimages/sandcastle_sconce4.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "sandcastle sconce",
+    "colors": [
+      "teal",
+      "purple"
+    ],
+    "image": "ajimages/sandcastle_sconce2.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "sandcastle tapestry",
+    "colors": [
+      "teal",
+      "blue"
+    ],
+    "image": "ajimages/sandcastle_tapestry8.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "sandcastle tapestry",
+    "colors": [
+      "teal",
+      "black"
+    ],
+    "image": "ajimages/sandcastle_tapestry6.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "sandcastle tapestry",
+    "colors": [
+      "teal",
+      "orange"
+    ],
+    "image": "ajimages/sandcastle_tapestry4.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "sandcastle tapestry",
+    "colors": [
+      "teal",
+      "purple"
+    ],
+    "image": "ajimages/sandcastle_tapestry2.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "sandcastle chair",
+    "colors": [
+      "teal",
+      "blue"
+    ],
+    "image": "ajimages/sandcastle_chair8.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "sandcastle chair",
+    "colors": [
+      "teal",
+      "black"
+    ],
+    "image": "ajimages/sandcastle_chair6.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "sandcastle chair",
+    "colors": [
+      "teal",
+      "orange"
+    ],
+    "image": "ajimages/sandcastle_chair4.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "sandcastle chair",
+    "colors": [
+      "teal",
+      "purple"
+    ],
+    "image": "ajimages/sandcastle_chair2.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "trident",
+    "colors": [
+      "yellow"
+    ],
+    "image": "ajimages/trident10.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "trident",
+    "colors": [
+      "green"
+    ],
+    "image": "ajimages/trident8.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "trident",
+    "colors": [
+      "blue"
+    ],
+    "image": "ajimages/trident6.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "trident",
+    "colors": [
+      "brown"
+    ],
+    "image": "ajimages/trident4.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "trident",
+    "colors": [
+      "green"
+    ],
+    "image": "ajimages/trident2.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "sunken liza tiki statue",
+    "colors": [
+      "teal",
+      "brown"
+    ],
+    "image": "ajimages/sunken_liza_tiki_statue.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "treasure map",
+    "colors": [
+      "brown"
+    ],
+    "image": "ajimages/treasure_map.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "Speedywolf's seahorse",
+    "colors": [
+      "white"
+    ],
+    "image": "ajimages/Speedywolf's_seahorse1.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "Speedywolf's seahorse",
+    "colors": [
+      "purple"
+    ],
+    "image": "ajimages/Speedywolf's_seahorse3.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "Speedywolf's seahorse",
+    "colors": [
+      "teal"
+    ],
+    "image": "ajimages/Speedywolf's_seahorse5.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "Speedywolf's seahorse",
+    "colors": [
+      "black"
+    ],
+    "image": "ajimages/Speedywolf's_seahorse7.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "Speedywolf's seahorse",
+    "colors": [
+      "brown"
+    ],
+    "image": "ajimages/Speedywolf's_seahorse9.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "dolphin venus statue",
+    "colors": [
+      "teal"
+    ],
+    "image": "ajimages/dolphin_venus_statue.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "potted plant",
+    "colors": [
+      "teal",
+      "black"
+    ],
+    "image": "ajimages/potted_plant1.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "potted plant",
+    "colors": [
+      "green",
+      "teal"
+    ],
+    "image": "ajimages/potted_plant3.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "potted plant",
+    "colors": [
+      "red",
+      "teal"
+    ],
+    "image": "ajimages/potted_plant5.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "potted plant",
+    "colors": [
+      "orange",
+      "teal"
+    ],
+    "image": "ajimages/potted_plant7.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "pillar with vase",
+    "colors": [
+      "teal",
+      "blue"
+    ],
+    "image": "ajimages/pillar_with_vase1.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "pillar with vase",
+    "colors": [
+      "teal",
+      "black"
+    ],
+    "image": "ajimages/pillar_with_vase3.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "pillar with vase",
+    "colors": [
+      "teal",
+      "brown"
+    ],
+    "image": "ajimages/pillar_with_vase5.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "pillar with vase",
+    "colors": [
+      "teal",
+      "pink"
+    ],
+    "image": "ajimages/pillar_with_vase7.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "Shell chair",
+    "colors": [
+      "teal",
+      "black"
+    ],
+    "image": "ajimages/Shell_chair1.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "Shell chair",
+    "colors": [
+      "teal",
+      "green"
+    ],
+    "image": "ajimages/Shell_chair3.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "Shell chair",
+    "colors": [
+      "teal",
+      "red"
+    ],
+    "image": "ajimages/Shell_chair5.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "Shell chair",
+    "colors": [
+      "teal",
+      "orange"
+    ],
+    "image": "ajimages/Shell_chair7.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "Crescent marble chair",
+    "colors": [
+      "teal",
+      "yellow"
+    ],
+    "image": "ajimages/Crescent_marble_chair6.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "Crescent marble chair",
+    "colors": [
+      "teal",
+      "pink"
+    ],
+    "image": "ajimages/Crescent_marble_chair4.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "Crescent marble chair",
+    "colors": [
+      "teal"
+    ],
+    "image": "ajimages/Crescent_marble_chair2.png",
+    "year": 9999,
+    "member": true
   }
 ]
