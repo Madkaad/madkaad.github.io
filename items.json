@@ -4910,5 +4910,78 @@
     "image": "ajimages/Crescent_marble_chair2.png",
     "year": 9999,
     "member": true
+  },
+
+
+
+
+
+
+
+
+  {
+    "name": "sandy seashells",
+    "colors": [
+      "white"
+    ],
+    "image": "ajimages/sandy_seashells2.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "stepping stones",
+    "colors": [
+      "white"
+    ],
+    "image": "ajimages/stepping_stones1.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "ship bench",
+    "colors": [
+      "green"
+    ],
+    "image": "ajimages/ship_bench1.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "ship bench",
+    "colors": [
+      "brown"
+    ],
+    "image": "ajimages/ship_bench9.png",
+    "year": 9999,
+    "member": false
+  },
+  {
+    "name": "sandcastle sofa",
+    "colors": [
+      "teal",
+      "pink"
+    ],
+    "image": "ajimages/sandcastle_sofa1.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "sunken phantom tiki statue",
+    "colors": [
+      "teal",
+      "brown"
+    ],
+    "image": "ajimages/sunken_phantom_tiki_statue.png",
+    "year": 9999,
+    "member": true
+  },
+  {
+    "name": "compass",
+    "colors": [
+      "purple"
+    ],
+    "image": "ajimages/compass8.png",
+    "year": 9999,
+    "member": true
   }
 ]
